@@ -1,0 +1,7 @@
+birth = (input())
+print(type(birth))
+blap = int(birth)
+second = (input())
+print(type(second))
+clap = int(second)
+print(blap*clap)

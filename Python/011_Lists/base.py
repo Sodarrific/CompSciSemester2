@@ -1,0 +1,3 @@
+import random
+listylisty = ["One time, a guy walked into a bar. He said \"Ow!\"", "I saw a guy being beaten up by 3 people on the curb. I couldn't just stand and watch so I jumped in to help. He didn't stand a chance against the 4 of us.", "What's brown and sounds like a bell? Dung.", "I have many jokes about unemployed people. Sadly, none of them work.", "I asked god for a bicycle, however, I knew god didn't work that way. So I stole a bicycle and asked for forgiveness instead."]
+print(listylisty[random.randrange(5)])   
